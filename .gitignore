@@ -45,6 +45,7 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+djackets-front/node_modules
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
